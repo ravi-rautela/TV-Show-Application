@@ -1,0 +1,18 @@
+.card_container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.flex-data {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-red {
+  color: red;
+}
+.title {
+  font-size: 3rem !important;
+}
